@@ -1,3 +1,5 @@
+![FIUBA LOGA](https://github.com/vacagonzalo/daw_tp_final/blob/master/images/fiuba.png?raw=true)
+
 Autor: Gonzalo Nahuel Vaca - 2020
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
@@ -5,6 +7,9 @@ Autor: Gonzalo Nahuel Vaca - 2020
 
 # Introducción
 El proyecto es un sistema de control y visualización de dispositivos de domótica. Forma parte de la cursada de *Desarrollos de Aplicaciones Web* de la especialización en Internet de las cosas de la *Universidad de Buenos Aires*
+
+![App screenshot](https://github.com/vacagonzalo/daw_tp_final/blob/master/images/app.png?raw=true)
+
 # Correr la aplicación
 Para correr la aplicación es necesario ejecutar el siguiente comando:
 ```sh
